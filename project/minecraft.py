@@ -1,0 +1,1 @@
+game = "Minecraft Java Edition"
