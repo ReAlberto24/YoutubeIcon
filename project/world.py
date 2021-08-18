@@ -8,7 +8,7 @@ class people:
 
     class everyone:
 
-        likes = []
+        likes = ['money', 'food', 'vacations']
 
 class make:
 
